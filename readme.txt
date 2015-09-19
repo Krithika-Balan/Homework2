@@ -21,3 +21,5 @@ Commit 8 : This is the ninth line of the readme file.
 Commit 9 : This is the tenth line of the readme file.
 
 Commit 11 :This merges commit 6 and commit 9.
+
+Commit 12 : This is the thirteenth line of the readme file.
