@@ -13,3 +13,11 @@ Commit 4 : This is the fifth line of the readme file.
 Commit 5 : This commit merged the two files.
 
 Commit 6 : This is the seventh line of the readme file.
+
+Commit 7 : This is the eighth line of the readme file.
+
+Commit 8 : This is the ninth line of the readme file.
+
+Commit 9 : This is the tenth line of the readme file.
+
+Commit 11 :This merges commit 6 and commit 9.
